@@ -1,3 +1,6 @@
+# Load required packages.
+library(utils)
+
 # Set locale.
 Sys.setlocale(category = "LC_TIME", locale = "C")
 

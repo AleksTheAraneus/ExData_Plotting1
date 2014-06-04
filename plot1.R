@@ -1,3 +1,6 @@
+# Load required packages.
+library(utils)
+
 # Create and set working directory. Download and unzip file.
 url<-"https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 
